@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @heybrandn
+- 👀 I’m interested in front-end development, solana, and web3
+- 🌱 I’m currently learning html/css/js
+- 💞️ I’m looking to make dApps for solana
+- 📫 How to reach me: discord: brandn is saved#7262, twitter: @heybrandn
